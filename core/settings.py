@@ -82,7 +82,7 @@ DATABASES = {
         'NAME': 'storedb',
         'USER': 'storeuser',
         'PASSWORD': 'storepass',
-        'HOST': 'db',
+        'HOST': 'localhost',
         'PORT': 5432,
     }
 }
